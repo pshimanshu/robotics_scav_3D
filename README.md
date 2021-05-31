@@ -1,7 +1,7 @@
-This repo contains all the project stuff for ***SCAV-3D*** by *Robotics Club* as a part of *SnT Council's* summer projects.
+This repo contains all the project stuff for **Summer Semester Project 2021: 3D Shape Completion for Autonomous Vehicles** under **Robotics Club, IITK**.
 
 # **TABLE OF CONTENTS**
-
+ 
 * assignments:
     - course1_neural_networks_and_deep_learning
         + W2_Python_Basics_with_Numpy_190379.ipynb
