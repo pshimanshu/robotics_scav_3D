@@ -8,3 +8,9 @@ This repo contains all the project stuff for **Summer Semester Project 2021: 3D 
         + W3_Planar_Data_Classification_190379.ipynb
         + W4_NN_StepByStep_190379.ipynb
         + W4_DNN_Application_190379.ipynb
+    - course2_deep_learning_in_computer_vision
+        + week1
+        + week2
+        + week3
+        + week4
+        + week5
