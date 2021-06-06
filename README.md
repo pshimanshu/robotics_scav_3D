@@ -9,8 +9,8 @@ This repo contains all the project stuff for **Summer Semester Project 2021: 3D 
         + W4_NN_StepByStep_190379.ipynb
         + W4_DNN_Application_190379.ipynb
     - course2_deep_learning_in_computer_vision
-        + week1
-        + week2
-        + week3
-        + week4
-        + week5
+        + week1-image_alignment_task
+        + week2-facial_keypoints_task
+        + week3-face_detection_task
+        + week4-face_recognition_task
+        + week5-gan_faces
