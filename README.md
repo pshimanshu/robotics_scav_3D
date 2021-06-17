@@ -14,3 +14,7 @@ This repo contains all the project stuff for **Summer Semester Project 2021: 3D 
         + week3-face_detection_task
         + week4-face_recognition_task
         + week5-gan_faces
+    - Image_Segmentation_UNET
+        + Data_Augmentation.ipynb
+        + Training.ipynb
+        + Testing.ipynb
