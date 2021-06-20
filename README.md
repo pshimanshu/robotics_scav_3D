@@ -2,7 +2,7 @@ This repo contains all the project stuff for **Summer Semester Project 2021: 3D 
 
 # **TABLE OF CONTENTS**
  
-* assignments:
+* Assignments:
     - course1_neural_networks_and_deep_learning
         + W2_Python_Basics_with_Numpy_190379.ipynb
         + W3_Planar_Data_Classification_190379.ipynb
@@ -14,7 +14,7 @@ This repo contains all the project stuff for **Summer Semester Project 2021: 3D 
         + week3-face_detection_task
         + week4-face_recognition_task
         + week5-gan_faces
-    - Image_Segmentation_UNET
-        + Data_Augmentation.ipynb
-        + Training.ipynb
-        + Testing.ipynb
+* Image_Segmentation_UNET
+    - Data_Augmentation.ipynb   - different methods were used to increase the size of the dataset.
+    - Training.ipynb            - trained the model and saved the results.
+    - Testing.ipynb             - tested on the testing set.
